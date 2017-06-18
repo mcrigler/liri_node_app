@@ -1,0 +1,610 @@
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 14:57:46
+**  Request Inputs: {
+  "action": "my-tweets",
+  "music": "",
+  "movie": ""
+}
+**************************************************************
+@aettrna: Only joined twitter because of API homework assignment.... keep getting sidetracked, Dagnabbitt!!
+Sun Jun 18 19:34:32 +0000 2017
+------------------------------ 0 ------------------------------
+@aettrna: Elected officials hide behind appraisal increases, but appraised values don't raise your taxes -https://t.co/JQag7loENe
+Sun Jun 18 02:11:31 +0000 2017
+------------------------------ 1 ------------------------------
+@aettrna: April -pt Coding Bootcamp
+Sun Jun 18 02:05:58 +0000 2017
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 15:01:07
+**  Request Inputs: 
+**      Action: undefined
+**      Music:  
+**      Movie:  
+**************************************************************
+@aettrna: Only joined twitter because of API homework assignment.... keep getting sidetracked, Dagnabbitt!!
+Sun Jun 18 19:34:32 +0000 2017
+------------------------------ 0 ------------------------------
+@aettrna: Elected officials hide behind appraisal increases, but appraised values don't raise your taxes -https://t.co/JQag7loENe
+Sun Jun 18 02:11:31 +0000 2017
+------------------------------ 1 ------------------------------
+@aettrna: April -pt Coding Bootcamp
+Sun Jun 18 02:05:58 +0000 2017
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 15:02:18
+**  Request Inputs: 
+**      Action: my-tweets
+**      Music:  Test
+**      Movie:  test
+**************************************************************
+@aettrna: Only joined twitter because of API homework assignment.... keep getting sidetracked, Dagnabbitt!!
+Sun Jun 18 19:34:32 +0000 2017
+------------------------------ 0 ------------------------------
+@aettrna: Elected officials hide behind appraisal increases, but appraised values don't raise your taxes -https://t.co/JQag7loENe
+Sun Jun 18 02:11:31 +0000 2017
+------------------------------ 1 ------------------------------
+@aettrna: April -pt Coding Bootcamp
+Sun Jun 18 02:05:58 +0000 2017
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 15:04:09
+**  Request Inputs: 
+**      Action: movie-this
+**      Music:  Test
+**      Movie:  Die Hard
+**************************************************************
+Title: Die Hard
+Year: 1988
+imdb Rating: 8.2
+County: USA
+Language: English, German, Italian
+Plot: John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.
+Actors: Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason
+Rotten Tomatoes: 92%
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 15:20:56
+**  Request Inputs: 
+**      Action: movie-this
+**      Music:  
+**      Movie:  
+**************************************************************
+Title: Mr. Nobody
+Year: 2009
+imdb Rating: 7.9
+County: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes: 64%
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 15:21:06
+**  Request Inputs: 
+**      Action: spotify-this-song
+**      Music:  
+**      Movie:  
+**************************************************************
+Song Title: Sign of the Times
+Album: Sign of the Times
+Listen: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Artist: Harry Styles   
+------------------------------ 0 ------------------------------
+Song Title: Impatient
+Album: Late Nights: The Album
+Listen: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Artist: Ty Dolla $ign   
+------------------------------ 3 ------------------------------
+Song Title: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Listen: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Artist: The Weeknd   
+------------------------------ 2 ------------------------------
+Song Title: The Sign
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Artist: Ace of Base   
+------------------------------ 4 ------------------------------
+Song Title: Sign of the Times
+Album: Harry Styles
+Listen: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Artist: Harry Styles   
+------------------------------ 1 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 15:22:42
+**  Request Inputs: 
+**      Action: spotify-this-song
+**      Music:  hello
+**      Movie:  
+**************************************************************
+Song Title: Hello
+Album: Hello
+Listen: https://open.spotify.com/track/0ENSn4fwAbCGeFGVUbXEU3
+Artist: Adele   
+------------------------------ 0 ------------------------------
+Song Title: Hello
+Album: 2014 Forest Hills Drive
+Listen: https://open.spotify.com/track/30Chv2SmIry70YwtmtaKnj
+Artist: J. Cole   
+------------------------------ 3 ------------------------------
+Song Title: Hello
+Album: TROLLS (Original Motion Picture Soundtrack)
+Listen: https://open.spotify.com/track/2jXTBrywc6ruxaUXW84Xhr
+Artist: Zooey Deschanel   
+------------------------------ 4 ------------------------------
+Song Title: Hello
+Album: 25
+Listen: https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw
+Artist: Adele   
+------------------------------ 1 ------------------------------
+Song Title: Hello
+Album: Hello
+Listen: https://open.spotify.com/track/4wFgr8CUdWFXtqLHSLdhNj
+Artist: Ozuna   
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 16:32:29
+**  Request Inputs: 
+**      Action: do-what-it-say
+**      Music:  
+**      Movie:  
+**************************************************************
+@aettrna: Elected officials hide behind appraisal increases, but appraised values don't raise your taxes -https://t.co/JQag7loENe
+Sun Jun 18 02:11:31 +0000 2017
+------------------------------ 1 ------------------------------
+@aettrna: Only joined twitter because of API homework assignment.... keep getting sidetracked, Dagnabbitt!!
+Sun Jun 18 19:34:32 +0000 2017
+------------------------------ 0 ------------------------------
+@aettrna: April -pt Coding Bootcamp
+Sun Jun 18 02:05:58 +0000 2017
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 16:40:58
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+** Random Choice: spotify-this-song
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 16:43:46
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+** Random Choice: undefined
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 16:48:06
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+** Random Choice: movie-this
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:05:47
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: spotify-this-song
+**  Random Music:  Stayin Alive
+**  Random Movie:  Tron
+**************************************************************
+Song Title: Stayin' Alive
+Album: Timeless - The All-Time Greatest Hits
+Listen: https://open.spotify.com/track/4ICKuJDY5F2XdTR4fIMA7W
+Artist: Bee Gees   
+------------------------------ 0 ------------------------------
+Song Title: Stayin Alive
+Album: Kangaroo Court EP
+Listen: https://open.spotify.com/track/6ybI4l93T6PI6ARyUXMXEg
+Artist: Capital Cities   
+------------------------------ 1 ------------------------------
+Song Title: Stayin' Alive
+Album: Tales From The Brothers Gibb
+Listen: https://open.spotify.com/track/1nD9xhaOKlHmZssLhVWRo1
+Artist: Bee Gees   
+------------------------------ 2 ------------------------------
+Song Title: Stayin’ Alive - Serban Mix
+Album: Stayin’ Alive (Serban Mix)
+Listen: https://open.spotify.com/track/4RDTlMTEiJKLgMzS6lpXyE
+Artist: Bee Gees   
+------------------------------ 3 ------------------------------
+Song Title: Stayin' Alive - Edited Version
+Album: Staying Alive (Original Motion Picture Soundtrack)
+Listen: https://open.spotify.com/track/6shlFuqAzvqufG9wB6rxYk
+Artist: Bee Gees   
+------------------------------ 4 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:06:14
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: spotify-this-song
+**  Random Music:  The Hustle
+**  Random Movie:  Midnight Madness
+**************************************************************
+Song Title: Down In the DM
+Album: The Art of Hustle (Deluxe)
+Listen: https://open.spotify.com/track/1LxKKYsJNPeBdOwdudsJzv
+Artist: Yo Gotti   
+------------------------------ 0 ------------------------------
+Song Title: Down In the DM - Remix
+Album: The Art of Hustle (Deluxe)
+Listen: https://open.spotify.com/track/5w1vhNA2OEWUQ371QzyMmM
+Artist: Nicki Minaj   
+------------------------------ 2 ------------------------------
+Song Title: Law
+Album: The Art of Hustle (Deluxe)
+Listen: https://open.spotify.com/track/7mhk9WyqZZzvTTCQKfh2iV
+Artist: E-40   
+------------------------------ 1 ------------------------------
+Song Title: Beast - Southpaw Remix
+Album: Southpaw (Music From And Inspired By The Motion Picture)
+Listen: https://open.spotify.com/track/2fWSwWmKRuyioqIzOzuQGo
+Artist: Tech N9ne   
+------------------------------ 3 ------------------------------
+Song Title: The Hustle - Original Mix
+Album: The Hustle & The Best of Van McCoy
+Listen: https://open.spotify.com/track/75PHqzep3Lf11sIYP5ps5q
+Artist: Van McCoy   
+------------------------------ 4 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:06:27
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Stayin Alive
+**  Random Movie:  Tron
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:10:09
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: undefined
+**  Random Music:  Y.M.C.A.
+**  Random Movie:  The Bears and I
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:11:27
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Shake Your Booty
+**  Random Movie:  Pete's Dragon
+**************************************************************
+Title: Pete's Dragon
+Year: 2016
+imdb Rating: 6.8
+County: USA
+Language: English
+Plot: The adventures of an orphaned boy named Pete and his best friend Elliot, who just so happens to be a dragon.
+Actors: Bryce Dallas Howard, Robert Redford, Oakes Fegley, Oona Laurence
+Rotten Tomatoes: 87%
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:12:03
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Knock On Wood
+**  Random Movie:  The Cat From Outer Space
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:15:42
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Thats the Way I like it
+**  Random Movie:  Herbie Goes Bananas
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:16:33
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Thats the Way I like it
+**  Random Movie: Tron
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:18:42
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Y.M.C.A.
+**  Random Movie: The Cat From Outer Space
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:26:52
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Le Freak
+**  Random Movie: The Cat From Outer Space
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:30:22
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  The Hustle
+**  Random Movie: The Cat From Outer Space
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:32:42
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Turn the Beat Around
+**  Random Movie: The Cat From Outer Space
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:37:59
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Y.M.C.A.
+**  Random Movie: The Cat From Outer Space
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:39:09
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Le Freak
+**  Random Movie: The Cat From Outer Space
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:40:47
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  The Hustle
+**  Random Movie: The Cat From Outer Space
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:41:20
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Turn the Beat Around
+**  Random Movie: The Cat From Outer Space
+**************************************************************
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:42:05
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Y.M.C.A.
+**  Random Movie: The Cat From Outer Space
+**************************************************************
+Title: The Cat from Outer Space
+Year: 1978
+imdb Rating: 6.0
+County: USA
+Language: English
+Plot: A UFO is stranded on earth and impounded by the US government. Its pilot, a cat with a collar that has special powers, including the ability to allow the cat to communicate with humans, has...
+Actors: Ken Berry, Sandy Duncan, Harry Morgan, Roddy McDowall
+Rotten Tomatoes: Not Available
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:43:15
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Shake Your Booty
+**  Random Movie:  Pete's Dragon
+**************************************************************
+Title: Pete's Dragon
+Year: 2016
+imdb Rating: 6.8
+County: USA
+Language: English
+Plot: The adventures of an orphaned boy named Pete and his best friend Elliot, who just so happens to be a dragon.
+Actors: Bryce Dallas Howard, Robert Redford, Oakes Fegley, Oona Laurence
+Rotten Tomatoes: 87%
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:43:24
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Thats the Way I like it
+**  Random Movie:  Herbie Goes Bananas
+**************************************************************
+Title: Herbie Goes Bananas
+Year: 1980
+imdb Rating: 4.8
+County: USA
+Language: English, Spanish
+Plot: The adorable little VW helps its owners break up a counterfeiting ring in Mexico.
+Actors: Cloris Leachman, Charles Martin Smith, John Vernon, Stephen W. Burns
+Rotten Tomatoes: 40%
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:43:37
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Le Freak
+**  Random Movie:  Gus
+**************************************************************
+Title: Donald's Cousin Gus
+Year: 1939
+imdb Rating: 7.0
+County: USA
+Language: English
+Plot: Donald's cousin Gus Goose arrives unexpectedly. Despite the note from his mother saying "he don't eat much," he's soon eating Donald out of house and home.
+Actors: Clarence Nash
+Rotten Tomatoes: Not Available
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:44:35
+**  Request Inputs: 
+**       Action: my-tweets
+**       Music:  
+**       Movie:  
+**  Random Choice: my-tweets
+**  Random Music:  Rock the Boat
+**  Random Movie:  Popeye
+**************************************************************
+@aettrna: Only joined twitter because of API homework assignment.... keep getting sidetracked, Dagnabbitt!!
+Sun Jun 18 19:34:32 +0000 2017
+------------------------------ 0 ------------------------------
+@aettrna: Elected officials hide behind appraisal increases, but appraised values don't raise your taxes -https://t.co/JQag7loENe
+Sun Jun 18 02:11:31 +0000 2017
+------------------------------ 1 ------------------------------
+@aettrna: April -pt Coding Bootcamp
+Sun Jun 18 02:05:58 +0000 2017
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:44:58
+**  Request Inputs: 
+**       Action: movie-this
+**       Music:  
+**       Movie:  Die Hard
+**  Random Choice: spotify-this-song
+**  Random Music:  The Hustle
+**  Random Movie:  Midnight Madness
+**************************************************************
+Title: Die Hard
+Year: 1988
+imdb Rating: 8.2
+County: USA
+Language: English, German, Italian
+Plot: John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.
+Actors: Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason
+Rotten Tomatoes: 92%
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:45:54
+**  Request Inputs: 
+**       Action: spotify-this-song
+**       Music:  crazy
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music: Macho Man
+**  Random Movie: The Million Dollar Duck
+**************************************************************
+Song Title: Crazy
+Album: St. Elsewhere
+Listen: https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9
+Artist: Gnarls Barkley   
+------------------------------ 0 ------------------------------
+Song Title: Crazy Brazy
+Album: Cozy Tapes: Vol. 1 Friends -
+Listen: https://open.spotify.com/track/59e7E2LMPZ2bhW5G6aCwX8
+Artist: KEY   
+------------------------------ 1 ------------------------------
+Song Title: I Want Crazy - Encore
+Album: I Want Crazy
+Listen: https://open.spotify.com/track/2tC3NZsLgXr9CXvOKon19c
+Artist: Hunter Hayes   
+------------------------------ 3 ------------------------------
+Song Title: Crazy=Genius
+Album: Death Of A Bachelor
+Listen: https://open.spotify.com/track/6V68ItawQkQlZhYIf1S86C
+Artist: Panic! At The Disco   
+------------------------------ 4 ------------------------------
+Song Title: Crazy In Love
+Album: Dangerously In Love
+Listen: https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr
+Artist: JAY Z   
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:46:31
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: my-tweets
+**  Random Music:  Y.M.C.A.
+**  Random Movie:  The Bears and I
+**************************************************************
+@aettrna: Only joined twitter because of API homework assignment.... keep getting sidetracked, Dagnabbitt!!
+Sun Jun 18 19:34:32 +0000 2017
+------------------------------ 0 ------------------------------
+@aettrna: Elected officials hide behind appraisal increases, but appraised values don't raise your taxes -https://t.co/JQag7loENe
+Sun Jun 18 02:11:31 +0000 2017
+------------------------------ 1 ------------------------------
+@aettrna: April -pt Coding Bootcamp
+Sun Jun 18 02:05:58 +0000 2017
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:46:45
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  The Hustle
+**  Random Movie:  Midnight Madness
+**************************************************************
+Title: Moona's Midnight Madness
+Year: 1973–1974
+imdb Rating: N/A
+County: USA
+Language: English
+Plot: A hosted horror movie show with Lisa Clark as Moona Lisa, screened by KMOX, Channel 4, St. Louis, Missouri between 1973-1974.
+Actors: N/A
+Rotten Tomatoes: Not Available
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/18 17:47:13
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Rock the Boat
+**  Random Movie:  Popeye
+**************************************************************
+Title: The All-New Popeye Hour
+Year: 1978–1983
+imdb Rating: 7.1
+County: USA
+Language: English
+Plot: The new adventures of Popeye the Sailor Man and his friends.
+Actors: Jack Mercer, Marilyn Schreffler
+Rotten Tomatoes: Not Available
+------------------------------------------------------------
