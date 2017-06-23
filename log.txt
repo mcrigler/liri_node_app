@@ -608,3 +608,168 @@ Plot: The new adventures of Popeye the Sailor Man and his friends.
 Actors: Jack Mercer, Marilyn Schreffler
 Rotten Tomatoes: Not Available
 ------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/20 17:57:41
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Stayin Alive
+**  Random Movie:  Tron
+**************************************************************
+Title: The 1982 Tron Holiday Special
+Year: 2010
+imdb Rating: 6.0
+County: USA
+Language: English
+Plot: N/A
+Actors: Clint Gage, Scott Gairdner, David Love, Nick Mundy
+Rotten Tomatoes: Not Available
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/20 18:32:21
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  The Hustle
+**  Random Movie:  Midnight Madness
+**************************************************************
+Title: Moona's Midnight Madness
+Year: 1973–1974
+imdb Rating: N/A
+County: USA
+Language: English
+Plot: A hosted horror movie show with Lisa Clark as Moona Lisa, screened by KMOX, Channel 4, St. Louis, Missouri between 1973-1974.
+Actors: N/A
+Rotten Tomatoes: Not Available
+------------------------------------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/20 18:32:32
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: my-tweets
+**  Random Music:  Car Wash
+**  Random Movie:  The Black Hole
+**************************************************************
+@aettrna: Only joined twitter because of API homework assignment.... keep getting sidetracked, Dagnabbitt!!
+Sun Jun 18 19:34:32 +0000 2017
+------------------------------ 0 ------------------------------
+@aettrna: Elected officials hide behind appraisal increases, but appraised values don't raise your taxes -https://t.co/JQag7loENe
+Sun Jun 18 02:11:31 +0000 2017
+------------------------------ 1 ------------------------------
+@aettrna: April -pt Coding Bootcamp
+Sun Jun 18 02:05:58 +0000 2017
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/20 18:32:47
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: spotify-this-song
+**  Random Music:  Dancing Queen
+**  Random Movie:  The Devil and Max Delin
+**************************************************************
+Song Title: Dancing Queen
+Album: ABBA Gold
+Listen: https://open.spotify.com/track/2ATDkfqprlNNe9mYWodgdc
+Artist: ABBA   
+------------------------------ 1 ------------------------------
+Song Title: Dancing Queen
+Album: The Essential Collection
+Listen: https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM
+Artist: ABBA   
+------------------------------ 2 ------------------------------
+Song Title: Dancing Queen
+Album: 70's Pop Number 1's
+Listen: https://open.spotify.com/track/01topnfXJFjW4iQMVAXAo8
+Artist: ABBA   
+------------------------------ 4 ------------------------------
+Song Title: Dancing Queen
+Album: The 4th Album 'I GOT A BOY'
+Listen: https://open.spotify.com/track/45DYPy0a4Ia1DQzhyLk2aS
+Artist: Girls' Generation   
+------------------------------ 3 ------------------------------
+Song Title: Dancing Queen
+Album: Arrival
+Listen: https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56
+Artist: ABBA   
+------------------------------ 0 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/23 15:37:33
+**  Request Inputs: 
+**       Action: my-tweets
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Y.M.C.A.
+**  Random Movie:  The Bears and I
+**************************************************************
+@aettrna: Only joined twitter because of API homework assignment.... keep getting sidetracked, Dagnabbitt!!
+Sun Jun 18 19:34:32 +0000 2017
+------------------------------ 0 ------------------------------
+@aettrna: Elected officials hide behind appraisal increases, but appraised values don't raise your taxes -https://t.co/JQag7loENe
+Sun Jun 18 02:11:31 +0000 2017
+------------------------------ 1 ------------------------------
+@aettrna: April -pt Coding Bootcamp
+Sun Jun 18 02:05:58 +0000 2017
+------------------------------ 2 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/23 15:37:58
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: spotify-this-song
+**  Random Music:  The Hustle
+**  Random Movie:  Midnight Madness
+**************************************************************
+Song Title: Down In the DM
+Album: The Art of Hustle (Deluxe)
+Listen: https://open.spotify.com/track/1LxKKYsJNPeBdOwdudsJzv
+Artist: Yo Gotti   
+------------------------------ 0 ------------------------------
+Song Title: Down In the DM - Remix
+Album: The Art of Hustle (Deluxe)
+Listen: https://open.spotify.com/track/5w1vhNA2OEWUQ371QzyMmM
+Artist: Nicki Minaj   
+------------------------------ 2 ------------------------------
+Song Title: Beast - Southpaw Remix
+Album: Southpaw (Music From And Inspired By The Motion Picture)
+Listen: https://open.spotify.com/track/2fWSwWmKRuyioqIzOzuQGo
+Artist: Tech N9ne   
+------------------------------ 3 ------------------------------
+Song Title: Law
+Album: The Art of Hustle (Deluxe)
+Listen: https://open.spotify.com/track/7mhk9WyqZZzvTTCQKfh2iV
+Artist: E-40   
+------------------------------ 1 ------------------------------
+Song Title: The Hustle - Original Mix
+Album: The Hustle & The Best of Van McCoy
+Listen: https://open.spotify.com/track/75PHqzep3Lf11sIYP5ps5q
+Artist: Van McCoy   
+------------------------------ 4 ------------------------------
+**********************  Liri Request  ************************
+**  Request Date: 2017/06/23 15:39:25
+**  Request Inputs: 
+**       Action: do-what-it-say
+**       Music:  
+**       Movie:  
+**  Random Choice: movie-this
+**  Random Music:  Rock the Boat
+**  Random Movie:  Popeye
+**************************************************************
+Title: The All-New Popeye Hour
+Year: 1978–1983
+imdb Rating: 7.1
+County: USA
+Language: English
+Plot: The new adventures of Popeye the Sailor Man and his friends.
+Actors: Jack Mercer, Marilyn Schreffler
+Rotten Tomatoes: Not Available
+------------------------------------------------------------
